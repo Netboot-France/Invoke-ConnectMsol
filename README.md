@@ -6,12 +6,12 @@
 Simple script to connect into Microsoft Online
 
 ## NOTES  
-  - File Name   : Invoke-ConnectMsol.ps1
-  - Author      : Thomas ILLIET, contact@thomas-illiet.fr
-  - Date        : 2017-08-06
-  - Last Update : 2017-08-06
-  - Tested Date : 2017-10-16
-  - Version     : 1.0.2
+  - **File Name**   : Invoke-ConnectMsol.ps1
+  - **Author**      : Thomas ILLIET, contact@thomas-illiet.fr
+  - **Date**        : 2017-08-06
+  - **Last Update** : 2017-08-06
+  - **Tested Date** : 2017-10-16
+  - **Version**     : 1.0.2
     
 ## REQUIRE
   - Software :
